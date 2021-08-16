@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jchak
-- 👀 I’m interested in computer applications
+- 👀 I’m interested in Computer Applications
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫  reach me at its.jchak@gmail.com
